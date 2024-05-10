@@ -12,8 +12,6 @@ $ gitinit
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
--[ ] Turn on GitHub
-
--[ ] This is my portfolio
-
--[ ] About me
+- [ ] Turn on GitHub pages.
+- [ ] Create my portfolio
+- [ ] About me
